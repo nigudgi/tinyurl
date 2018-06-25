@@ -186,6 +186,7 @@ def urldecode(s):
 
 # This is the main function
 def main():
+    print "Welcome to Tiny URL system"
     # This code checks whether database table is created or not
     table_check()
     app.run(debug=True)

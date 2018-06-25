@@ -9,5 +9,5 @@
 # DB name
 dbname = "urls.db"
 home_url = "home.html"
-logfile_path = "./log/tinurl.log"
+logfile_path = "./log/tinyurl.log"
 rstring_number = 6
