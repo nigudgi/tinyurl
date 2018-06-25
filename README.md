@@ -1,2 +1,6 @@
-# Pyster
-A URL shortening Flask micro website similar to bit.ly 
+# tinyurl system
+A URL shortening Flask micro website. 
+
+
+Please, find the log details in the log folder.
+ 
